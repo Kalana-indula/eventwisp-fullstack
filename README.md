@@ -34,8 +34,8 @@ cd eventwisp-fullstack
 <img width="1755" height="987" alt="image" src="https://github.com/user-attachments/assets/0dafe5be-af04-4c30-8357-526eaa5c6bea" />
 <img width="1755" height="987" alt="image" src="https://github.com/user-attachments/assets/d55535da-2443-41e4-8ab4-a89e7a639741" />
 
-## UI walkthrough video
-https://youtu.be/SEDoVyToiVs
-
 ## User Journey Ticket booking
 https://youtu.be/3S-pkdKt4dU
+
+## UI walkthrough video
+https://youtu.be/SEDoVyToiVs
